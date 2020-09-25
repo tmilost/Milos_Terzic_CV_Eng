@@ -8,13 +8,12 @@ import logo6 from "./assets/walkingVector/5.jpg";
 import logo7 from "./assets/walkingVector/6.jpg";
 import logo8 from "./assets/walkingVector/7.jpg";
 import logo9 from "./assets/walkingVector/8.jpg";
+
 import "./App.css";
 
 var countAvatar = 1;
-var countAvatarUP = true;
-var countAvatarDown = false;
-var strinngli = "";
-
+var avatarSrcAll = [logo1, logo2, logo3, logo4, logo5, logo6, logo7, logo8];
+var avatarSrc = logo1;
 function List() {
   if (!countAvatar) {
     return null;
@@ -53,20 +52,17 @@ class App extends React.Component<{}, any> {
   constructor(props: any) {
     super(props);
     this.state = {
-      model: "asdasd",
+      avatarState: true,
     };
   }
   tick() {
-    if (countAvatarUP === true) {
-      if (countAvatar === 7) {
-        console.log("1111111111111111111111111");
-        this.setState({ model: "rr" });
-      } else {
-        this.setState({ model: "aa" });
-        countAvatar++;
-      }
+    console.log(avatarSrc);
+    this.setState({ model: false });
+    avatarSrc = avatarSrcAll[countAvatar];
+    ++countAvatar;
+    if (countAvatar > 7) {
+      countAvatar = 1;
     }
-    console.log(String(this.state.model));
   }
 
   componentDidMount() {
@@ -83,13 +79,12 @@ class App extends React.Component<{}, any> {
         <div className="avatar">
           {List()}
           <p>{this.state.model}</p>
-          return <img src={strinngli} className="App-logo" alt="logo" />;
           <img
-            src={require("./assets/walkingVector/8.jpg")}
+            src={avatarSrc}
             className="App-logo"
             alt="logo"
           />
-          ;
+           
           <p>
             Edit <code>src/App.tsx</code> and save to reload.
           </p>
