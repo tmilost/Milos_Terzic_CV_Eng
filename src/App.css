@@ -4,16 +4,28 @@
   height: 100vh;
   width: 100vw;
 }
-
-.App-logo {
-  height: 15vh;
-  pointer-events: none;
+.App-frame {
+  width: 39vw;
+  height: auto;
 }
 
-.avatar{
-  padding-top: 15vh;
-  margin-bottom: 15vh;
+.Frame {
+  top: 5vh;
+  position: relative;
+  text-align: center;
 }
+.App-avatar {
+  width: 16vw;
+  height: auto;
+}
+
+.Avatar {
+  position: absolute;
+  top: 21vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
+
 /* @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
