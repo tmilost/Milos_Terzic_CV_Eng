@@ -1,11 +1,16 @@
 .App {
   text-align: center;
-  background: radial-gradient(#262a2d, #212527);
+
   height: 100vh;
   width: 100vw;
 }
-.App-frame {
-  width: 39vw;
+.mainDiv {
+  background: linear-gradient(0deg, #221b23 30%, #260a26 30%);
+  height: 100%;
+  width: 100%;
+}
+.frame {
+  width: 19vw;
   height: auto;
 }
 
@@ -14,45 +19,77 @@
   position: relative;
   text-align: center;
 }
-.App-avatar {
-  width: 16vw;
+.avatar {
+  width: 5vw;
   height: auto;
 }
 
 .Avatar {
-  position: absolute;
+  position: fixed;
   top: 21vh;
   left: 50vw;
   transform: translate(-50%, -50%);
 }
+.pixelPc {
+  position: fixed;
+  width: auto;
+  height: 600px;
+  top: 65vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+}
+.pixelCup {
+  position: fixed;
+  width: auto;
+  height: 100px;
 
-/* @media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-} */
+  top: 75vh;
+  left: 79vw;
+}
+.plant {
+  position: fixed;
+  width: auto;
+  height: 500px;
+  top: 35vh;
+  left: 11vw;
+}
+.outSide {
+  position: absolute;
+  width: auto;
+  height: 500px;
+  top: 9vh;
+  left: 60vw;
+}
+.PcScreen {
+  position: fixed;
+  top: 39vh;
+  left: 43vw;
+  width: 350px;
+  height: 700px;
+}
+.cvlogo {
+  width: auto;
+  height: 90px;
+}
 
-/* .App-header {
+.linkedIn {
+  width: auto;
+  height: 100px;
+  float: left;
+  margin-right: 100%;
+}
 
-  min-height: 100vh;
-  min-width: 100vw;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-} */
+.gitHubLogo {
+  float: left;
 
-/* .App-link {
-  color: #61dafb;
-} */
+  width: auto;
+  height: 50px;
+}
 
-/* @keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-} */
+.instagramLogo {
+  margin-top: 25px;
+  float: left;
+
+  width: auto;
+  height: 50px;
+}
