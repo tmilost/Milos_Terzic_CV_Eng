@@ -9,27 +9,6 @@
   height: 100%;
   width: 100%;
 }
-.frame {
-  width: 19vw;
-  height: auto;
-}
-
-.Frame {
-  top: 5vh;
-  position: relative;
-  text-align: center;
-}
-.avatar {
-  width: 5vw;
-  height: auto;
-}
-
-.Avatar {
-  position: fixed;
-  top: 21vh;
-  left: 50vw;
-  transform: translate(-50%, -50%);
-}
 .pixelPc {
   position: fixed;
   width: auto;
@@ -54,7 +33,7 @@
   left: 11vw;
 }
 .outSide {
-  position: absolute;
+  position: fixed;
   width: auto;
   height: 500px;
   top: 9vh;
@@ -81,15 +60,12 @@
 
 .gitHubLogo {
   float: left;
-
   width: auto;
   height: 50px;
 }
 
 .instagramLogo {
-  margin-top: 25px;
   float: left;
-
   width: auto;
   height: 50px;
 }
