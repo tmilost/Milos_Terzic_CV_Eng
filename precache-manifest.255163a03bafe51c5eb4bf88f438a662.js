@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9da91b046e44731972ad4a74e5f483d6",
+    "revision": "88bf276a40886df64330a27a56e9dd6d",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
-    "revision": "cb6641566988b0e6e235",
+    "revision": "6cf03fd5ab5031fcb36b",
     "url": "/Milos_Terzic_CV_Eng/static/css/main.79b9158e.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/js/2.aa84fbdc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cb6641566988b0e6e235",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.8ca461c3.chunk.js"
+    "revision": "6cf03fd5ab5031fcb36b",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.c74311fa.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/media/PixelCup.1fc83413.png"
   },
   {
-    "revision": "985f8da4e8bd816f02f35b42ba9d52c0",
-    "url": "/Milos_Terzic_CV_Eng/static/media/PixelPc.985f8da4.png"
+    "revision": "0dcf639193b486f00d6a0effb868551f",
+    "url": "/Milos_Terzic_CV_Eng/static/media/PixelPc.0dcf6391.png"
   },
   {
     "revision": "e2863743ef49cdd9ee4fa7ab918aca44",

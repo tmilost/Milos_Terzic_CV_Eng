@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Milos_Terzic_CV_Eng/static/css/main.79b9158e.chunk.css",
-    "main.js": "/Milos_Terzic_CV_Eng/static/js/main.8ca461c3.chunk.js",
-    "main.js.map": "/Milos_Terzic_CV_Eng/static/js/main.8ca461c3.chunk.js.map",
+    "main.js": "/Milos_Terzic_CV_Eng/static/js/main.c74311fa.chunk.js",
+    "main.js.map": "/Milos_Terzic_CV_Eng/static/js/main.c74311fa.chunk.js.map",
     "runtime-main.js": "/Milos_Terzic_CV_Eng/static/js/runtime-main.41087536.js",
     "runtime-main.js.map": "/Milos_Terzic_CV_Eng/static/js/runtime-main.41087536.js.map",
     "static/js/2.aa84fbdc.chunk.js": "/Milos_Terzic_CV_Eng/static/js/2.aa84fbdc.chunk.js",
     "static/js/2.aa84fbdc.chunk.js.map": "/Milos_Terzic_CV_Eng/static/js/2.aa84fbdc.chunk.js.map",
     "index.html": "/Milos_Terzic_CV_Eng/index.html",
-    "precache-manifest.cabaf5f8cb2c6110569c7d2a2ee489c8.js": "/Milos_Terzic_CV_Eng/precache-manifest.cabaf5f8cb2c6110569c7d2a2ee489c8.js",
+    "precache-manifest.255163a03bafe51c5eb4bf88f438a662.js": "/Milos_Terzic_CV_Eng/precache-manifest.255163a03bafe51c5eb4bf88f438a662.js",
     "service-worker.js": "/Milos_Terzic_CV_Eng/service-worker.js",
     "static/css/main.79b9158e.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/main.79b9158e.chunk.css.map",
     "static/js/2.aa84fbdc.chunk.js.LICENSE.txt": "/Milos_Terzic_CV_Eng/static/js/2.aa84fbdc.chunk.js.LICENSE.txt",
@@ -24,7 +24,7 @@
     "static/media/CVlogo.png": "/Milos_Terzic_CV_Eng/static/media/CVlogo.44fbc951.png",
     "static/media/LinkedIn.png": "/Milos_Terzic_CV_Eng/static/media/LinkedIn.113edd03.png",
     "static/media/PixelCup.png": "/Milos_Terzic_CV_Eng/static/media/PixelCup.1fc83413.png",
-    "static/media/PixelPc.png": "/Milos_Terzic_CV_Eng/static/media/PixelPc.985f8da4.png",
+    "static/media/PixelPc.png": "/Milos_Terzic_CV_Eng/static/media/PixelPc.0dcf6391.png",
     "static/media/Plant.gif": "/Milos_Terzic_CV_Eng/static/media/Plant.e2863743.gif",
     "static/media/gitHubLogo.png": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo.e070b249.png",
     "static/media/instagramLogo.png": "/Milos_Terzic_CV_Eng/static/media/instagramLogo.2bb9fced.png",
@@ -34,6 +34,6 @@
     "static/js/runtime-main.41087536.js",
     "static/js/2.aa84fbdc.chunk.js",
     "static/css/main.79b9158e.chunk.css",
-    "static/js/main.8ca461c3.chunk.js"
+    "static/js/main.c74311fa.chunk.js"
   ]
 }
