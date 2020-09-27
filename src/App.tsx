@@ -8,12 +8,29 @@ import logo6 from "./assets/walkingVector/5.jpg";
 import logo7 from "./assets/walkingVector/6.jpg";
 import logo8 from "./assets/walkingVector/7.jpg";
 import logo9 from "./assets/walkingVector/8.jpg";
-import frame from "./assets/WhiteFrame_400x400.png";
+import pixelPc from "./assets/PixelPc.png";
+import pixelCup from "./assets/PixelCup.png";
+import plant from "./assets/Plant.gif";
+import outSide from "./assets/paris_evening.gif";
+import cvlogo from "./assets/CVlogo.png";
+import LinkedIn from "./assets/LinkedIn.png";
+import gitHubLogo from "./assets/gitHubLogo.png";
+import instagramLogo from "./assets/instagramLogo.png";
 
 import "./App.css";
 
 var countAvatar = 1;
-var avatarSrcAll = [logo1, logo2, logo3, logo4, logo5, logo6, logo7, logo8];
+var avatarSrcAll = [
+  logo1,
+  logo2,
+  logo3,
+  logo4,
+  logo5,
+  logo6,
+  logo7,
+  logo8,
+  logo9,
+];
 var avatarSrc = logo1;
 // function List() {
 //   if (!countAvatar) {
@@ -61,7 +78,7 @@ class App extends React.Component<{}, any> {
     this.setState({ avatarState: false });
     avatarSrc = avatarSrcAll[countAvatar];
     ++countAvatar;
-    if (countAvatar > 7) {
+    if (countAvatar > 8) {
       countAvatar = 2;
     }
   }
@@ -73,22 +90,76 @@ class App extends React.Component<{}, any> {
   componentWillUnmount() {
     clearInterval();
   }
+  instagramImageClick = () => {
+    window.open("https://www.instagram.com/tmilost/", "_blank");
+  };
 
+  gitHubImageClick = () => {
+    window.open("https://github.com/tmilost", "_blank");
+  };
+
+  linkedinLink = () => {
+    window.open(
+      "https://www.linkedin.com/in/milos-terzic-a60709183/",
+      "_blank"
+    );
+  };
   render() {
     return (
       <div className="App">
-        <div className="Top-frame">
+        <div className="mainDiv">
+          <img src={outSide} className="outSide" alt="plant" />
+          {/* <div className="top">
           <div className="Frame">
-            <img src={frame} className="App-frame" alt="frame" />
+            <img src={frame} className="frame" alt="frame" />
           </div>
           <div className="Avatar">
-            <img src={avatarSrc} className="App-avatar" alt="logo" />
+            <img src={avatarSrc} className="avatar" alt="logo" />
 
             <p>
               <b>
                 <code>Front-End Web Developer</code>
               </b>
             </p>
+          </div>
+        </div> */}
+
+          <img src={plant} className="plant" alt="pixelPc" />
+          <img src={pixelPc} className="pixelPc" alt="pixelPc" />
+          <img src={pixelCup} className="pixelCup" alt="plant" />
+          <div className="PcScreen">
+          <div>
+             
+            </div>
+            <div>
+              <img
+                src={LinkedIn}
+                className="linkedIn"
+                alt="LinkedIn"
+                onClick={this.linkedinLink}
+              />
+            </div>
+            <div>
+              <img
+                src={gitHubLogo}
+                className="gitHubLogo"
+                alt="gitHubLogo"
+                onClick={this.gitHubImageClick}
+              /> <img
+              src={cvlogo}
+              className="cvlogo"
+              alt="cvlogo"
+              onClick={this.linkedinLink}
+            />
+            </div>
+            <div>
+              <img
+                src={instagramLogo}
+                className="instagramLogo"
+                alt="instagramLogo"
+                onClick={this.instagramImageClick}
+              />
+            </div>
           </div>
         </div>
       </div>
