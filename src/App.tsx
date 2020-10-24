@@ -9,11 +9,48 @@ import cvlogo from "./assets/CVlogo.png";
 import LinkedIn from "./assets/LinkedIn.png";
 import gitHubLogo from "./assets/gitHubLogo.png";
 import instagramLogo from "./assets/instagramLogo.png";
-import cvPage1 from "./assets/Milos_Terzic_CV_Eng-1.jpg";
-import cvPage2 from "./assets/Milos_Terzic_CV_Eng-2.jpg";
-import cvPage3 from "./assets/Milos_Terzic_CV_Eng-3.jpg";
+import cvPage1 from "./assets/cvImages/Milos_Terzic_CV_Eng-1.jpg";
+import cvPage2 from "./assets/cvImages/Milos_Terzic_CV_Eng-2.jpg";
+import cvPage3 from "./assets/cvImages/Milos_Terzic_CV_Eng-3.jpg";
+import project1 from "./assets/projectsImages/Business Monitoring Reporter 0.png";
+import project2 from "./assets/projectsImages/Business Monitoring Reporter 1.png";
+import project3 from "./assets/projectsImages/Pixel.png";
+import project4 from "./assets/projectsImages/Profilus 0.png";
+import project5 from "./assets/projectsImages/Profilus 1.png";
+import project6 from "./assets/projectsImages/Profilus 2.png";
+import project7 from "./assets/projectsImages/Profilus 3.png";
+import project8 from "./assets/projectsImages/Student's Home Svilajnac 0.png";
+import project9 from "./assets/projectsImages/Student's home Svilajnac 1.png";
+import project10 from "./assets/projectsImages/Business Monitoring Reporter 0.png";
+import project11 from "./assets/projectsImages/Business Monitoring Reporter 1.png";
 
 import "./App.css";
+const cvArrays = [cvPage1, cvPage2, cvPage3];
+const listCvItems = cvArrays.map((cvArray) => (
+  <div>
+    <img src={cvArray} alt="CV Page 0" />
+    <p className="legend">Page 0</p>
+  </div>
+));
+const projects = [
+  project1,
+  project2,
+  project3,
+  project4,
+  project5,
+  project6,
+  project7,
+  project8,
+  project9,
+  project10,
+  project11,
+];
+const listProjectItems = projects.map((project) => (
+  <div>
+    <img src={project} alt="CV Page 0" />
+    <p className="legend">Page 0</p>
+  </div>
+));
 
 class App extends React.Component<{}, any> {
   instagramImageClick = () => {
@@ -30,6 +67,7 @@ class App extends React.Component<{}, any> {
       "_blank"
     );
   };
+
   render() {
     return (
       <div className="App">
@@ -72,20 +110,12 @@ class App extends React.Component<{}, any> {
         </div>
         <div className="cvDiv">
           <div className="slideShow">
-            <Carousel dynamicHeight={false}>
-              <div>
-                <img src={cvPage1} alt="CV Page 0" />
-                <p className="legend">Page 0</p>
-              </div>
-              <div>
-                <img src={cvPage2} alt="CV Page 1" />
-                <p className="legend">Page 1</p>
-              </div>
-              <div>
-                <img src={cvPage3} alt="CV Page 2" />
-                <p className="legend">Page 2</p>
-              </div>
-            </Carousel>{" "}
+            <Carousel dynamicHeight={false}>{listCvItems}</Carousel>
+          </div>
+        </div>
+        <div className="projects">
+          <div className="slideShow">
+            <Carousel dynamicHeight={false}>{listProjectItems}</Carousel>
           </div>
         </div>
       </div>

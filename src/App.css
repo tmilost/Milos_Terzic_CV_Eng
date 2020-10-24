@@ -82,6 +82,13 @@
   padding-left: 20%;
   padding-right: 20%;
 }
+.projects{
+  height: 100%;
+  width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
+  background: #221b23;
+}
 
 ::-webkit-scrollbar {
   height: 6px;
