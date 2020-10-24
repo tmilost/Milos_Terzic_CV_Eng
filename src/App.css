@@ -1,67 +1,74 @@
 .App {
-  text-align: center;
+  background: #121212;
 }
 .mainDiv {
   height: 100vh;
   width: 100%;
+  max-width: 1920px;
+  margin: 0 auto;
   background: linear-gradient(0deg, #221b23 30vh, #260a26 30vh);
 }
 .outSide {
   position: relative;
-  width: 45vw;
+  width: 40%;
   height: auto;
   padding-top: 9vh;
-  padding-left: 50vw;
+  padding-left: 50%;
 }
 .table {
   position: absolute;
-  width: 100%;
-  height: auto;
 
   bottom: 5vh;
 }
 .plant {
-  width: 30vw;
+  width: 30%;
   height: auto;
   float: left;
-
+  padding-top: 19vh;
 }
 .pixelPc {
-  width: 50vw;
+  width: 30%;
+
   height: auto;
+  padding-top: 35vh;
+  padding-left: 5%;
 }
 .pixelCup {
-  width: 10vw;
+  width: 10%;
   height: auto;
   padding-bottom: 55px;
-  padding-left: 65px;
+  padding-left: 12%;
+  padding-right: 5%;
 }
 
 .PcScreen {
-  width: auto;
+  position: absolute;
+  width: 15%;
+  height: auto;
+  bottom: 22vh;
+  left: 40%;
 }
 .cvlogo {
-  width: auto;
-  height: 90px;
+  width: 50%;
+  height: auto;
 }
 
 .linkedIn {
-  width: auto;
-  height: 100px;
+  width: 50%;
+  height: auto;
   float: left;
-  margin-right: 100%;
 }
 
 .gitHubLogo {
   float: left;
-  width: auto;
-  height: 50px;
+  width: 50%;
+  height: auto;
 }
 
 .instagramLogo {
   float: left;
-  width: auto;
-  height: 50px;
+  width: 25%;
+  height: auto;
 }
 .cvDiv {
   height: 100vh;
