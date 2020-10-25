@@ -1,7 +1,7 @@
 import React from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from "react-responsive-carousel";
-import pixelPc from "./assets/PixelPc.png";
+import pixelPc from "./assets/PixelPc1.png";
 import pixelCup from "./assets/PixelCup.png";
 import plant from "./assets/Plant.gif";
 import outSide from "./assets/paris_evening.gif";
@@ -10,6 +10,7 @@ import LinkedIn from "./assets/LinkedIn.png";
 import gitHubLogo from "./assets/gitHubLogo.png";
 import instagramLogo from "./assets/instagramLogo.png";
 import projectsIcon from "./assets/projectsIcon.png";
+import arrowGif from "./assets/arrowGif.gif";
 import cvPage1 from "./assets/cvImages/Milos_Terzic_CV_Eng-1.jpg";
 import cvPage2 from "./assets/cvImages/Milos_Terzic_CV_Eng-2.jpg";
 import cvPage3 from "./assets/cvImages/Milos_Terzic_CV_Eng-3.jpg";
@@ -141,6 +142,19 @@ class App extends React.Component<{}, any> {
                         onClick={this.instagramImageClick}
                       />
                     </div>
+                    <div className="divTableCell"> &nbsp;</div>
+                  </div>
+                  <div className="divTableRow">
+                    <div className="divTableCell">&nbsp;</div>
+                    <div className="divTableCell">
+                    &nbsp;
+                    </div>
+                    <div className="divTableCell"> <img
+                        src={arrowGif}
+                        className="arrowGif"
+                        alt="arrow Gif"
+                        onClick={this.instagramImageClick}
+                      /></div>
                   </div>
                 </div>
               </div>
