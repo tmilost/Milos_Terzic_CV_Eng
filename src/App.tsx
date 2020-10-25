@@ -23,6 +23,7 @@ import project8 from "./assets/projectsImages/Student's Home Svilajnac 0.png";
 import project9 from "./assets/projectsImages/Student's home Svilajnac 1.png";
 import project10 from "./assets/projectsImages/Business Monitoring Reporter 0.png";
 import project11 from "./assets/projectsImages/Business Monitoring Reporter 1.png";
+import bonsaiPlant from "./assets/bonsai plant.gif";
 
 import "./App.css";
 const cvArrays = [cvPage1, cvPage2, cvPage3];
@@ -48,7 +49,7 @@ const projects = [
 const listProjectItems = projects.map((project) => (
   <div>
     <img src={project} alt="CV Page 0" />
-    <p className="legend">Page 0</p>
+    <p className="legend">Project</p>
   </div>
 ));
 
@@ -109,12 +110,13 @@ class App extends React.Component<{}, any> {
           </div>
         </div>
         <div className="cvDiv">
-          <div className="slideShow">
+          <div className="slideShowCv">
             <Carousel dynamicHeight={false}>{listCvItems}</Carousel>
           </div>
         </div>
         <div className="projects">
-          <div className="slideShow">
+          <div className="slideShowProjects">
+            <img src={bonsaiPlant} className="bonsaiPlant" alt="Bonsai Plant" />
             <Carousel dynamicHeight={false}>{listProjectItems}</Carousel>
           </div>
         </div>
