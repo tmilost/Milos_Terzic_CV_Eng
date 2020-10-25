@@ -9,6 +9,7 @@ import cvlogo from "./assets/CVlogo.png";
 import LinkedIn from "./assets/LinkedIn.png";
 import gitHubLogo from "./assets/gitHubLogo.png";
 import instagramLogo from "./assets/instagramLogo.png";
+import projectsIcon from "./assets/projectsIcon.png";
 import cvPage1 from "./assets/cvImages/Milos_Terzic_CV_Eng-1.jpg";
 import cvPage2 from "./assets/cvImages/Milos_Terzic_CV_Eng-2.jpg";
 import cvPage3 from "./assets/cvImages/Milos_Terzic_CV_Eng-3.jpg";
@@ -52,6 +53,14 @@ const listProjectItems = projects.map((project) => (
 ));
 
 class App extends React.Component<{}, any> {
+  scrollCv = () => {
+    window.scrollTo(0, 1000);
+  };
+
+  scrollProjects = () => {
+    window.scrollTo(0, 5000);
+  };
+
   instagramImageClick = () => {
     window.open("https://www.instagram.com/tmilost/", "_blank");
   };
@@ -75,12 +84,18 @@ class App extends React.Component<{}, any> {
           <span className="table">
             <img src={plant} className="plant" alt="plant" />
             <img src={pixelPc} className="pixelPc" alt="pixelPc" />
-            {/* <div className="PcScreen">
+            <div className="PcScreen">
               <img
-                src={LinkedIn}
-                className="linkedIn"
-                alt="LinkedIn"
-                onClick={this.linkedinLink}
+                src={cvlogo}
+                className="cvlogo"
+                alt="cvlogo"
+                onClick={this.scrollCv}
+              />
+              <img
+                src={projectsIcon}
+                className="projectsIcon"
+                alt="projectsIcon"
+                onClick={this.scrollProjects}
               />
 
               <img
@@ -91,9 +106,9 @@ class App extends React.Component<{}, any> {
               />
 
               <img
-                src={cvlogo}
-                className="cvlogo"
-                alt="cvlogo"
+                src={LinkedIn}
+                className="linkedIn"
+                alt="linkedIn"
                 onClick={this.linkedinLink}
               />
 
@@ -103,7 +118,7 @@ class App extends React.Component<{}, any> {
                 alt="instagramLogo"
                 onClick={this.instagramImageClick}
               />
-            </div> */}
+            </div>
             <img src={pixelCup} className="pixelCup" alt="plant" />
           </span>
         </div>

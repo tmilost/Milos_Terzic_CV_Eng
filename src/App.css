@@ -54,14 +54,19 @@
   position: absolute;
   width: 15%;
   height: auto;
-  bottom: 22vh;
+  top: 0px;
   left: 40%;
 }
 .cvlogo {
   width: 50%;
   height: auto;
+  float: left;
 }
-
+.projectsIcon {
+  width: 35%;
+  height: auto;
+  float: left;
+}
 .linkedIn {
   width: 50%;
   height: auto;
