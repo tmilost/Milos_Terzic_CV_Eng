@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Milos_Terzic_CV_Eng/static/css/main.0cc03da2.chunk.css",
-    "main.js": "/Milos_Terzic_CV_Eng/static/js/main.20f63e50.chunk.js",
-    "main.js.map": "/Milos_Terzic_CV_Eng/static/js/main.20f63e50.chunk.js.map",
+    "main.css": "/Milos_Terzic_CV_Eng/static/css/main.6823d1d5.chunk.css",
+    "main.js": "/Milos_Terzic_CV_Eng/static/js/main.31b025d9.chunk.js",
+    "main.js.map": "/Milos_Terzic_CV_Eng/static/js/main.31b025d9.chunk.js.map",
     "runtime-main.js": "/Milos_Terzic_CV_Eng/static/js/runtime-main.41087536.js",
     "runtime-main.js.map": "/Milos_Terzic_CV_Eng/static/js/runtime-main.41087536.js.map",
     "static/css/2.fb346933.chunk.css": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css",
-    "static/js/2.ffdbfef4.chunk.js": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js",
-    "static/js/2.ffdbfef4.chunk.js.map": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js.map",
+    "static/js/2.c8f3a8d7.chunk.js": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js",
+    "static/js/2.c8f3a8d7.chunk.js.map": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.map",
     "index.html": "/Milos_Terzic_CV_Eng/index.html",
-    "precache-manifest.17bcb5b1527b1df3cafe8be2d992bc54.js": "/Milos_Terzic_CV_Eng/precache-manifest.17bcb5b1527b1df3cafe8be2d992bc54.js",
+    "precache-manifest.1bf5117340520f294661f45b9a25b6b2.js": "/Milos_Terzic_CV_Eng/precache-manifest.1bf5117340520f294661f45b9a25b6b2.js",
     "service-worker.js": "/Milos_Terzic_CV_Eng/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.0cc03da2.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/main.0cc03da2.chunk.css.map",
-    "static/js/2.ffdbfef4.chunk.js.LICENSE.txt": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js.LICENSE.txt",
+    "static/css/main.6823d1d5.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/main.6823d1d5.chunk.css.map",
+    "static/js/2.c8f3a8d7.chunk.js.LICENSE.txt": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.LICENSE.txt",
     "static/media/Business Monitoring Reporter 0.png": "/Milos_Terzic_CV_Eng/static/media/Business Monitoring Reporter 0.8a65a786.png",
     "static/media/Business Monitoring Reporter 1.png": "/Milos_Terzic_CV_Eng/static/media/Business Monitoring Reporter 1.253296ca.png",
     "static/media/CVlogo.png": "/Milos_Terzic_CV_Eng/static/media/CVlogo.44fbc951.png",
@@ -25,7 +25,7 @@
     "static/media/Online School Portal 1.jpg": "/Milos_Terzic_CV_Eng/static/media/Online School Portal 1.e571d419.jpg",
     "static/media/Pixel.png": "/Milos_Terzic_CV_Eng/static/media/Pixel.21c686ff.png",
     "static/media/PixelCup.png": "/Milos_Terzic_CV_Eng/static/media/PixelCup.1fc83413.png",
-    "static/media/PixelPc.png": "/Milos_Terzic_CV_Eng/static/media/PixelPc.a74de920.png",
+    "static/media/PixelPc1.png": "/Milos_Terzic_CV_Eng/static/media/PixelPc1.6c98c100.png",
     "static/media/Plant.gif": "/Milos_Terzic_CV_Eng/static/media/Plant.e2863743.gif",
     "static/media/Profilus 0.png": "/Milos_Terzic_CV_Eng/static/media/Profilus 0.7e4e3f80.png",
     "static/media/Profilus 1.png": "/Milos_Terzic_CV_Eng/static/media/Profilus 1.28931350.png",
@@ -33,15 +33,17 @@
     "static/media/Profilus 3.png": "/Milos_Terzic_CV_Eng/static/media/Profilus 3.c196fe51.png",
     "static/media/Student's Home Svilajnac 0.png": "/Milos_Terzic_CV_Eng/static/media/Student's Home Svilajnac 0.9672f213.png",
     "static/media/Student's home Svilajnac 1.png": "/Milos_Terzic_CV_Eng/static/media/Student's home Svilajnac 1.9f1cb6f6.png",
+    "static/media/arrowGif.gif": "/Milos_Terzic_CV_Eng/static/media/arrowGif.bd8c64c6.gif",
     "static/media/gitHubLogo.png": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo.e070b249.png",
     "static/media/instagramLogo.png": "/Milos_Terzic_CV_Eng/static/media/instagramLogo.2bb9fced.png",
-    "static/media/paris_evening.gif": "/Milos_Terzic_CV_Eng/static/media/paris_evening.153bd30c.gif"
+    "static/media/paris_evening.gif": "/Milos_Terzic_CV_Eng/static/media/paris_evening.153bd30c.gif",
+    "static/media/projectsIcon.png": "/Milos_Terzic_CV_Eng/static/media/projectsIcon.f2d9c7a2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.41087536.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.ffdbfef4.chunk.js",
-    "static/css/main.0cc03da2.chunk.css",
-    "static/js/main.20f63e50.chunk.js"
+    "static/js/2.c8f3a8d7.chunk.js",
+    "static/css/main.6823d1d5.chunk.css",
+    "static/js/main.31b025d9.chunk.js"
   ]
 }

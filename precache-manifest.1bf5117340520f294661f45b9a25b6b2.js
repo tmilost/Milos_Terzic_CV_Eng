@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0b0a1a360190cb26e045550de2e2e6ff",
+    "revision": "25ec4585db17c1c670874425d0e3530f",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
-    "revision": "dd887cdd3129f357302c",
+    "revision": "9799c36b87ec2440c323",
     "url": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "f1f4e96c2e1355c41c32",
-    "url": "/Milos_Terzic_CV_Eng/static/css/main.0cc03da2.chunk.css"
+    "revision": "b8447be77ff511565820",
+    "url": "/Milos_Terzic_CV_Eng/static/css/main.6823d1d5.chunk.css"
   },
   {
-    "revision": "dd887cdd3129f357302c",
-    "url": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js"
+    "revision": "9799c36b87ec2440c323",
+    "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js.LICENSE.txt"
+    "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f1f4e96c2e1355c41c32",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.20f63e50.chunk.js"
+    "revision": "b8447be77ff511565820",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.31b025d9.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
@@ -72,8 +72,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/media/PixelCup.1fc83413.png"
   },
   {
-    "revision": "a74de9207dbdb0e141ae77e6a378e3f6",
-    "url": "/Milos_Terzic_CV_Eng/static/media/PixelPc.a74de920.png"
+    "revision": "6c98c1004c656372a5c5105fc9fa65ba",
+    "url": "/Milos_Terzic_CV_Eng/static/media/PixelPc1.6c98c100.png"
   },
   {
     "revision": "e2863743ef49cdd9ee4fa7ab918aca44",
@@ -104,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/media/Student's home Svilajnac 1.9f1cb6f6.png"
   },
   {
+    "revision": "bd8c64c602348b32397e003ce613240f",
+    "url": "/Milos_Terzic_CV_Eng/static/media/arrowGif.bd8c64c6.gif"
+  },
+  {
     "revision": "e070b2496f4152aa7efa25728a15f608",
     "url": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo.e070b249.png"
   },
@@ -114,5 +118,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "153bd30c9742fc9fd77d380a85a0ad29",
     "url": "/Milos_Terzic_CV_Eng/static/media/paris_evening.153bd30c.gif"
+  },
+  {
+    "revision": "f2d9c7a26125260781ef6ab03134860b",
+    "url": "/Milos_Terzic_CV_Eng/static/media/projectsIcon.f2d9c7a2.png"
   }
 ]);
