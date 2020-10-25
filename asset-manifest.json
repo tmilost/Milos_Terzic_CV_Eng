@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Milos_Terzic_CV_Eng/static/css/main.c1ba14db.chunk.css",
-    "main.js": "/Milos_Terzic_CV_Eng/static/js/main.9ac7f36b.chunk.js",
-    "main.js.map": "/Milos_Terzic_CV_Eng/static/js/main.9ac7f36b.chunk.js.map",
+    "main.css": "/Milos_Terzic_CV_Eng/static/css/main.0cc03da2.chunk.css",
+    "main.js": "/Milos_Terzic_CV_Eng/static/js/main.20f63e50.chunk.js",
+    "main.js.map": "/Milos_Terzic_CV_Eng/static/js/main.20f63e50.chunk.js.map",
     "runtime-main.js": "/Milos_Terzic_CV_Eng/static/js/runtime-main.41087536.js",
     "runtime-main.js.map": "/Milos_Terzic_CV_Eng/static/js/runtime-main.41087536.js.map",
     "static/css/2.fb346933.chunk.css": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css",
-    "static/js/2.fdc0ed08.chunk.js": "/Milos_Terzic_CV_Eng/static/js/2.fdc0ed08.chunk.js",
-    "static/js/2.fdc0ed08.chunk.js.map": "/Milos_Terzic_CV_Eng/static/js/2.fdc0ed08.chunk.js.map",
+    "static/js/2.ffdbfef4.chunk.js": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js",
+    "static/js/2.ffdbfef4.chunk.js.map": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js.map",
     "index.html": "/Milos_Terzic_CV_Eng/index.html",
-    "precache-manifest.6b9e90d5b7008f3b4fcf1ba6fe6bdaa6.js": "/Milos_Terzic_CV_Eng/precache-manifest.6b9e90d5b7008f3b4fcf1ba6fe6bdaa6.js",
+    "precache-manifest.cba5f1f621c874f105350f71d0216a24.js": "/Milos_Terzic_CV_Eng/precache-manifest.cba5f1f621c874f105350f71d0216a24.js",
     "service-worker.js": "/Milos_Terzic_CV_Eng/service-worker.js",
     "static/css/2.fb346933.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css.map",
-    "static/css/main.c1ba14db.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/main.c1ba14db.chunk.css.map",
-    "static/js/2.fdc0ed08.chunk.js.LICENSE.txt": "/Milos_Terzic_CV_Eng/static/js/2.fdc0ed08.chunk.js.LICENSE.txt",
+    "static/css/main.0cc03da2.chunk.css.map": "/Milos_Terzic_CV_Eng/static/css/main.0cc03da2.chunk.css.map",
+    "static/js/2.ffdbfef4.chunk.js.LICENSE.txt": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js.LICENSE.txt",
     "static/media/Business Monitoring Reporter 0.png": "/Milos_Terzic_CV_Eng/static/media/Business Monitoring Reporter 0.8a65a786.png",
     "static/media/Business Monitoring Reporter 1.png": "/Milos_Terzic_CV_Eng/static/media/Business Monitoring Reporter 1.253296ca.png",
     "static/media/CVlogo.png": "/Milos_Terzic_CV_Eng/static/media/CVlogo.44fbc951.png",
@@ -21,6 +21,8 @@
     "static/media/Milos_Terzic_CV_Eng-1.jpg": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-1.30e23ac4.jpg",
     "static/media/Milos_Terzic_CV_Eng-2.jpg": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-2.73d7cff1.jpg",
     "static/media/Milos_Terzic_CV_Eng-3.jpg": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-3.56af80ea.jpg",
+    "static/media/Online School Portal 0.jpg": "/Milos_Terzic_CV_Eng/static/media/Online School Portal 0.4976883e.jpg",
+    "static/media/Online School Portal 1.jpg": "/Milos_Terzic_CV_Eng/static/media/Online School Portal 1.e571d419.jpg",
     "static/media/Pixel.png": "/Milos_Terzic_CV_Eng/static/media/Pixel.21c686ff.png",
     "static/media/PixelCup.png": "/Milos_Terzic_CV_Eng/static/media/PixelCup.1fc83413.png",
     "static/media/PixelPc.png": "/Milos_Terzic_CV_Eng/static/media/PixelPc.a74de920.png",
@@ -38,8 +40,8 @@
   "entrypoints": [
     "static/js/runtime-main.41087536.js",
     "static/css/2.fb346933.chunk.css",
-    "static/js/2.fdc0ed08.chunk.js",
-    "static/css/main.c1ba14db.chunk.css",
-    "static/js/main.9ac7f36b.chunk.js"
+    "static/js/2.ffdbfef4.chunk.js",
+    "static/css/main.0cc03da2.chunk.css",
+    "static/js/main.20f63e50.chunk.js"
   ]
 }

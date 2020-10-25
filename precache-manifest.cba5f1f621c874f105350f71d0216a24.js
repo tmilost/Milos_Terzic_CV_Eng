@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "706790f1b4e4feb1f40d5194cbd30c62",
+    "revision": "d45dff81f963c94a059cdb1e20381143",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
-    "revision": "1819826db7cc210f9fdd",
+    "revision": "dd887cdd3129f357302c",
     "url": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "c9536b4cf68f329a14b9",
-    "url": "/Milos_Terzic_CV_Eng/static/css/main.c1ba14db.chunk.css"
+    "revision": "f1f4e96c2e1355c41c32",
+    "url": "/Milos_Terzic_CV_Eng/static/css/main.0cc03da2.chunk.css"
   },
   {
-    "revision": "1819826db7cc210f9fdd",
-    "url": "/Milos_Terzic_CV_Eng/static/js/2.fdc0ed08.chunk.js"
+    "revision": "dd887cdd3129f357302c",
+    "url": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/Milos_Terzic_CV_Eng/static/js/2.fdc0ed08.chunk.js.LICENSE.txt"
+    "url": "/Milos_Terzic_CV_Eng/static/js/2.ffdbfef4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c9536b4cf68f329a14b9",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.9ac7f36b.chunk.js"
+    "revision": "f1f4e96c2e1355c41c32",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.20f63e50.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
@@ -54,6 +54,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "56af80ea6c1e6ae720b8724b0826f16c",
     "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-3.56af80ea.jpg"
+  },
+  {
+    "revision": "4976883ec74b034c534016a2c2c1f9bc",
+    "url": "/Milos_Terzic_CV_Eng/static/media/Online School Portal 0.4976883e.jpg"
+  },
+  {
+    "revision": "e571d4197fead4031606a39536a4da07",
+    "url": "/Milos_Terzic_CV_Eng/static/media/Online School Portal 1.e571d419.jpg"
   },
   {
     "revision": "21c686ffa7a3832b5dd6d45d946c608e",
