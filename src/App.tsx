@@ -21,8 +21,8 @@ import project6 from "./assets/projectsImages/Profilus 2.png";
 import project7 from "./assets/projectsImages/Profilus 3.png";
 import project8 from "./assets/projectsImages/Student's Home Svilajnac 0.png";
 import project9 from "./assets/projectsImages/Student's home Svilajnac 1.png";
-import project10 from "./assets/projectsImages/Business Monitoring Reporter 0.png";
-import project11 from "./assets/projectsImages/Business Monitoring Reporter 1.png";
+import project10 from "./assets/projectsImages/Online School Portal 0.jpg";
+import project11 from "./assets/projectsImages/Online School Portal 1.jpg";
 import bonsaiPlant from "./assets/bonsai plant.gif";
 
 import "./App.css";
