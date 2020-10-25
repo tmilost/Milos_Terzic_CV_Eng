@@ -54,11 +54,19 @@ const listProjectItems = projects.map((project) => (
 
 class App extends React.Component<{}, any> {
   scrollCv = () => {
-    window.scrollTo(0, 1000);
+    window.scrollTo({
+      top: 950,
+      left: 100,
+      behavior: 'smooth'
+    });
   };
 
   scrollProjects = () => {
-    window.scrollTo(0, 5000);
+    window.scrollTo({
+      top: 5000,
+      left: 100,
+      behavior: 'smooth'
+    });
   };
 
   instagramImageClick = () => {
@@ -85,39 +93,57 @@ class App extends React.Component<{}, any> {
             <img src={plant} className="plant" alt="plant" />
             <img src={pixelPc} className="pixelPc" alt="pixelPc" />
             <div className="PcScreen">
-              <img
-                src={cvlogo}
-                className="cvlogo"
-                alt="cvlogo"
-                onClick={this.scrollCv}
-              />
-              <img
-                src={projectsIcon}
-                className="projectsIcon"
-                alt="projectsIcon"
-                onClick={this.scrollProjects}
-              />
-
-              <img
-                src={gitHubLogo}
-                className="gitHubLogo"
-                alt="gitHubLogo"
-                onClick={this.gitHubImageClick}
-              />
-
-              <img
-                src={LinkedIn}
-                className="linkedIn"
-                alt="linkedIn"
-                onClick={this.linkedinLink}
-              />
-
-              <img
-                src={instagramLogo}
-                className="instagramLogo"
-                alt="instagramLogo"
-                onClick={this.instagramImageClick}
-              />
+              <div className="divTable">
+                <div className="divTableBody">
+                  <div className="divTableRow">
+                    <div className="divTableCell">
+                      <img
+                        src={cvlogo}
+                        className="cvlogo"
+                        alt="cvlogo"
+                        onClick={this.scrollCv}
+                      />
+                    </div>
+                    <div className="divTableCell">
+                      <img
+                        src={LinkedIn}
+                        className="linkedIn"
+                        alt="linkedIn"
+                        onClick={this.linkedinLink}
+                      />
+                    </div>
+                  </div>
+                  <div className="divTableRow">
+                    <div className="divTableCell">
+                      <img
+                        src={projectsIcon}
+                        className="projectsIcon"
+                        alt="projectsIcon"
+                        onClick={this.scrollProjects}
+                      />
+                    </div>
+                    <div className="divTableCell">
+                      <img
+                        src={gitHubLogo}
+                        className="gitHubLogo"
+                        alt="gitHubLogo"
+                        onClick={this.gitHubImageClick}
+                      />
+                    </div>
+                  </div>
+                  <div className="divTableRow">
+                    <div className="divTableCell">&nbsp;</div>
+                    <div className="divTableCell">
+                      <img
+                        src={instagramLogo}
+                        className="instagramLogo"
+                        alt="instagramLogo"
+                        onClick={this.instagramImageClick}
+                      />
+                    </div>
+                  </div>
+                </div>
+              </div>
             </div>
             <img src={pixelCup} className="pixelCup" alt="plant" />
           </span>
