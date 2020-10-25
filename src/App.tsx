@@ -29,8 +29,7 @@ import "./App.css";
 const cvArrays = [cvPage1, cvPage2, cvPage3];
 const listCvItems = cvArrays.map((cvArray) => (
   <div>
-    <img src={cvArray} alt="CV Page 0" />
-    <p className="legend">Page 0</p>
+    <img src={cvArray} alt="CV" />
   </div>
 ));
 const projects = [
@@ -48,8 +47,7 @@ const projects = [
 ];
 const listProjectItems = projects.map((project) => (
   <div>
-    <img src={project} alt="CV Page 0" />
-    <p className="legend">Project</p>
+    <img src={project} alt="Project" />
   </div>
 ));
 
