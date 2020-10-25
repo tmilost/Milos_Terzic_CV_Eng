@@ -57,7 +57,7 @@ class App extends React.Component<{}, any> {
     window.scrollTo({
       top: 950,
       left: 100,
-      behavior: 'smooth'
+      behavior: "smooth",
     });
   };
 
@@ -65,7 +65,7 @@ class App extends React.Component<{}, any> {
     window.scrollTo({
       top: 5000,
       left: 100,
-      behavior: 'smooth'
+      behavior: "smooth",
     });
   };
 
