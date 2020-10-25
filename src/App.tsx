@@ -72,10 +72,10 @@ class App extends React.Component<{}, any> {
       <div className="App">
         <div className="mainDiv">
           <img src={outSide} className="outSide" alt="outSide" />
-          <div className="table">
+          <span className="table">
             <img src={plant} className="plant" alt="plant" />
             <img src={pixelPc} className="pixelPc" alt="pixelPc" />
-            <div className="PcScreen">
+            {/* <div className="PcScreen">
               <img
                 src={LinkedIn}
                 className="linkedIn"
@@ -103,9 +103,9 @@ class App extends React.Component<{}, any> {
                 alt="instagramLogo"
                 onClick={this.instagramImageClick}
               />
-            </div>
+            </div> */}
             <img src={pixelCup} className="pixelCup" alt="plant" />
-          </div>
+          </span>
         </div>
         <div className="cvDiv">
           <div className="slideShowCv">

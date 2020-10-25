@@ -6,43 +6,48 @@
 }
 .mainDiv {
   height: 100vh;
-  width: 100%;
   max-width: 1920px;
-  /* min-width: 920px; */
+  min-width: 920px;
   margin: 0 auto;
   background: linear-gradient(0deg, #221b23 30vh, #260a26 30vh);
 }
 .outSide {
   position: relative;
-  width: 40%;
+  min-width: 45%;
+  max-width: 500px;
   height: auto;
-  padding-top: 9vh;
-  padding-left: 50%;
+  margin-right: 15vw;
+  float: right;
 }
 .table {
   position: absolute;
-
-  bottom: 5vh;
+  bottom: 5px;
+  min-width: 920px;
 }
 .plant {
-  width: 30%;
+  width: 19vw;
+  min-width: 200px;
+  max-width: 900px;
   height: auto;
-  float: left;
-  padding-top: 19vh;
+  padding-left: 5%;
+  padding-right: 3%;
 }
 .pixelPc {
-  width: 30%;
-
+  width: 120vw;
+  min-width: 100px;
+  max-width: 700px;
   height: auto;
-  padding-top: 35vh;
   padding-left: 5%;
+  padding-right: 3%;
 }
 .pixelCup {
-  width: 10%;
+  width: 9vw;
+  min-width: 90px;
+  max-width: 200px;
   height: auto;
-  padding-bottom: 55px;
-  padding-left: 12%;
-  padding-right: 5%;
+
+  margin-right: 200px;
+  float: right;
 }
 
 .PcScreen {
@@ -80,21 +85,21 @@
   max-width: 1920px;
   margin: 0 auto;
   background: #221b23;
+  padding-top: 55px;
 }
 .slideShowCv {
-  padding-bottom: 5%;
+  padding-bottom: 9%;
   padding-left: 20%;
   padding-right: 20%;
 }
-.bonsaiPlant{
+.bonsaiPlant {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 65%;
   height: auto;
-
 }
-.projects{
+.projects {
   height: 100%;
   width: 100%;
   max-width: 1920px;
