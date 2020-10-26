@@ -146,15 +146,16 @@ class App extends React.Component<{}, any> {
                   </div>
                   <div className="divTableRow">
                     <div className="divTableCell">&nbsp;</div>
+                    <div className="divTableCell">&nbsp;</div>
                     <div className="divTableCell">
-                    &nbsp;
-                    </div>
-                    <div className="divTableCell"> <img
+                      {" "}
+                      <img
                         src={arrowGif}
                         className="arrowGif"
                         alt="arrow Gif"
                         onClick={this.instagramImageClick}
-                      /></div>
+                      />
+                    </div>
                   </div>
                 </div>
               </div>
