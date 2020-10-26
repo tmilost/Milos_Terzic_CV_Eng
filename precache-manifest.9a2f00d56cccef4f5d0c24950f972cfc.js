@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "25ec4585db17c1c670874425d0e3530f",
+    "revision": "8a9587845a0bb677bc29980c81cb1515",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "b8447be77ff511565820",
-    "url": "/Milos_Terzic_CV_Eng/static/css/main.6823d1d5.chunk.css"
+    "revision": "72c847a39d04e129c272",
+    "url": "/Milos_Terzic_CV_Eng/static/css/main.b810daab.chunk.css"
   },
   {
     "revision": "9799c36b87ec2440c323",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b8447be77ff511565820",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.31b025d9.chunk.js"
+    "revision": "72c847a39d04e129c272",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.05b71dbd.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
@@ -36,12 +36,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/media/Business Monitoring Reporter 1.253296ca.png"
   },
   {
-    "revision": "44fbc95167bdb4a3cde36b99ce3c062a",
-    "url": "/Milos_Terzic_CV_Eng/static/media/CVlogo.44fbc951.png"
+    "revision": "ebb603d798aa6cd1e5f7fa2653bdb733",
+    "url": "/Milos_Terzic_CV_Eng/static/media/CVlogo1.ebb603d7.png"
   },
   {
-    "revision": "113edd03f10d21134113b474599d38a7",
-    "url": "/Milos_Terzic_CV_Eng/static/media/LinkedIn.113edd03.png"
+    "revision": "f369c411add64db006233e0df3d42327",
+    "url": "/Milos_Terzic_CV_Eng/static/media/LinkedIn1.f369c411.png"
   },
   {
     "revision": "30e23ac45971c666ee026dca7ee7d32f",
@@ -108,19 +108,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/media/arrowGif.bd8c64c6.gif"
   },
   {
-    "revision": "e070b2496f4152aa7efa25728a15f608",
-    "url": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo.e070b249.png"
+    "revision": "5410118512483c9f682ff03f4d0a296e",
+    "url": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo1.54101185.png"
   },
   {
-    "revision": "2bb9fced3caef8967455bf7d6f3d1db0",
-    "url": "/Milos_Terzic_CV_Eng/static/media/instagramLogo.2bb9fced.png"
+    "revision": "d0686d96fad2f8895e36e4a4791660dc",
+    "url": "/Milos_Terzic_CV_Eng/static/media/instagramLogo1.d0686d96.png"
   },
   {
     "revision": "153bd30c9742fc9fd77d380a85a0ad29",
     "url": "/Milos_Terzic_CV_Eng/static/media/paris_evening.153bd30c.gif"
   },
   {
-    "revision": "f2d9c7a26125260781ef6ab03134860b",
-    "url": "/Milos_Terzic_CV_Eng/static/media/projectsIcon.f2d9c7a2.png"
+    "revision": "f8b9eee55d03af1ad1557a34e7ff1d3f",
+    "url": "/Milos_Terzic_CV_Eng/static/media/projectsIcon1.f8b9eee5.png"
   }
 ]);
