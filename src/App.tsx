@@ -133,7 +133,7 @@ class App extends React.Component<{}, any> {
                     </div>
                   </div>
                   <div className="divTableRow">
-                    <div className="divTableCell">&nbsp;</div>
+                    <div className="divTableCell"></div>
                     <div className="divTableCell">
                       <img
                         src={instagramLogo}
@@ -142,11 +142,11 @@ class App extends React.Component<{}, any> {
                         onClick={this.instagramImageClick}
                       />
                     </div>
-                    <div className="divTableCell"> &nbsp;</div>
+                    <div className="divTableCell"></div>
                   </div>
                   <div className="divTableRow">
-                    <div className="divTableCell">&nbsp;</div>
-                    <div className="divTableCell">&nbsp;</div>
+                    <div className="divTableCell"></div>
+                    <div className="divTableCell"></div>
                     <div className="divTableCell">
                       <img
                         src={arrowGif}
