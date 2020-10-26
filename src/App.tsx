@@ -148,7 +148,6 @@ class App extends React.Component<{}, any> {
                     <div className="divTableCell">&nbsp;</div>
                     <div className="divTableCell">&nbsp;</div>
                     <div className="divTableCell">
-                      {" "}
                       <img
                         src={arrowGif}
                         className="arrowGif"
