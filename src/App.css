@@ -17,6 +17,13 @@
   margin-right: 15vw;
   float: right;
 }
+
+@media screen and (max-height: 821px) and (min-width: 921px) {
+  .outSide {
+    display: none !important;
+  }
+}
+
 .table {
   position: absolute;
   bottom: 5px;
@@ -27,15 +34,15 @@
   min-width: 200px;
   max-width: 900px;
   height: auto;
-  padding-left: 5%;
-  padding-right: 3%;
+  padding-left: 1vw;
+  padding-right: 3vw;
 }
 .pixelPc {
   width: 120vw;
   min-width: 100px;
   max-width: 600px;
   height: auto;
-  padding-left: 5%;
+  padding-left: 10%;
   padding-right: 3%;
 }
 .pixelCup {
@@ -55,7 +62,7 @@
   left: 40%;
 }
 .divTable {
-  padding: 55px 0px 0px 59px;
+  padding: 5vh 0px 0px 5vw;
   display: table;
   width: 100%;
 }
@@ -70,11 +77,7 @@
   max-width: 600px;
   height: 50px;
   display: table-cell;
-  padding: 3px 5px 3px 15px;
-}
-.divTableCell:hover {
-  opacity: 0.7;
-  cursor: grab;
+  padding: 3px 5px 3px 12px;
 }
 
 .cvlogo {
@@ -83,15 +86,30 @@
   padding-left: 5px;
 }
 
+.cvlogo:hover {
+  opacity: 0.7;
+  cursor: grab;
+}
+
 .projectsIcon {
   width: 41%;
   height: auto;
   padding-left: 20px;
 }
 
+.projectsIcon:hover {
+  opacity: 0.7;
+  cursor: grab;
+}
+
 .linkedIn {
   width: 85%;
   height: auto;
+}
+
+.linkedIn:hover {
+  opacity: 0.7;
+  cursor: grab;
 }
 
 .gitHubLogo {
@@ -100,11 +118,22 @@
   padding-bottom: 11px;
 }
 
+.gitHubLogo:hover {
+  opacity: 0.7;
+  cursor: grab;
+}
+
 .instagramLogo {
   width: 35%;
   height: auto;
 }
-.arrowGif{
+
+.instagramLogo:hover {
+  opacity: 0.7;
+  cursor: grab;
+}
+
+.arrowGif {
   width: 65%;
   height: auto;
 }
