@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ff5d25ea8812195ce509595f98c76c42",
+    "revision": "bc470590a4b0e16414b61a9233419b22",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "98c994ed7cdc58fb8f2b",
+    "revision": "7a912af4b3e31ff3890b",
     "url": "/Milos_Terzic_CV_Eng/static/css/main.87eacd65.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "98c994ed7cdc58fb8f2b",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.05b71dbd.chunk.js"
+    "revision": "7a912af4b3e31ff3890b",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.3bfe444a.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
