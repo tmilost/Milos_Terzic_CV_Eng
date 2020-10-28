@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1066a411f46162e85eb1df1ace16600b",
+    "revision": "00eb10ae96f2a9be43a3f18ed8385327",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "529632ddefd1bbf0a382",
+    "revision": "07cc5cc35d7d043d272a",
     "url": "/Milos_Terzic_CV_Eng/static/css/main.c4d003a7.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "529632ddefd1bbf0a382",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.3bfe444a.chunk.js"
+    "revision": "07cc5cc35d7d043d272a",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.a7e4b436.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
@@ -37,11 +37,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ebb603d798aa6cd1e5f7fa2653bdb733",
-    "url": "/Milos_Terzic_CV_Eng/static/media/CVlogo1.ebb603d7.png"
+    "url": "/Milos_Terzic_CV_Eng/static/media/CVlogo.ebb603d7.png"
   },
   {
     "revision": "f369c411add64db006233e0df3d42327",
-    "url": "/Milos_Terzic_CV_Eng/static/media/LinkedIn1.f369c411.png"
+    "url": "/Milos_Terzic_CV_Eng/static/media/LinkedIn.f369c411.png"
   },
   {
     "revision": "30e23ac45971c666ee026dca7ee7d32f",
@@ -73,7 +73,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6c98c1004c656372a5c5105fc9fa65ba",
-    "url": "/Milos_Terzic_CV_Eng/static/media/PixelPc1.6c98c100.png"
+    "url": "/Milos_Terzic_CV_Eng/static/media/PixelPc.6c98c100.png"
   },
   {
     "revision": "e2863743ef49cdd9ee4fa7ab918aca44",
@@ -109,11 +109,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "5410118512483c9f682ff03f4d0a296e",
-    "url": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo1.54101185.png"
+    "url": "/Milos_Terzic_CV_Eng/static/media/gitHubLogo.54101185.png"
   },
   {
     "revision": "d0686d96fad2f8895e36e4a4791660dc",
-    "url": "/Milos_Terzic_CV_Eng/static/media/instagramLogo1.d0686d96.png"
+    "url": "/Milos_Terzic_CV_Eng/static/media/instagramLogo.d0686d96.png"
   },
   {
     "revision": "153bd30c9742fc9fd77d380a85a0ad29",
@@ -121,6 +121,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "f8b9eee55d03af1ad1557a34e7ff1d3f",
-    "url": "/Milos_Terzic_CV_Eng/static/media/projectsIcon1.f8b9eee5.png"
+    "url": "/Milos_Terzic_CV_Eng/static/media/projectsIcon.f8b9eee5.png"
   }
 ]);
