@@ -1,15 +1,15 @@
 import React from "react";
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import { Carousel } from "react-responsive-carousel";
-import pixelPc from "./assets/PixelPc1.png";
+import pixelPc from "./assets/PixelPc.png";
 import pixelCup from "./assets/PixelCup.png";
 import plant from "./assets/Plant.gif";
 import outSide from "./assets/paris_evening.gif";
-import cvlogo from "./assets/CVlogo1.png";
-import LinkedIn from "./assets/LinkedIn1.png";
-import gitHubLogo from "./assets/gitHubLogo1.png";
-import instagramLogo from "./assets/instagramLogo1.png";
-import projectsIcon from "./assets/projectsIcon1.png";
+import cvlogo from "./assets/CVlogo.png";
+import LinkedIn from "./assets/LinkedIn.png";
+import gitHubLogo from "./assets/gitHubLogo.png";
+import instagramLogo from "./assets/instagramLogo.png";
+import projectsIcon from "./assets/projectsIcon.png";
 import arrowGif from "./assets/arrowGif.gif";
 import cvPage1 from "./assets/cvImages/Milos_Terzic_CV_Eng-1.jpg";
 import cvPage2 from "./assets/cvImages/Milos_Terzic_CV_Eng-2.jpg";
