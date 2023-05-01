@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "00eb10ae96f2a9be43a3f18ed8385327",
+    "revision": "a849f2fbfd18ef08a515ba61e19d035a",
     "url": "/Milos_Terzic_CV_Eng/index.html"
   },
   {
-    "revision": "9799c36b87ec2440c323",
+    "revision": "3983924c4c334d95c803",
     "url": "/Milos_Terzic_CV_Eng/static/css/2.fb346933.chunk.css"
   },
   {
-    "revision": "07cc5cc35d7d043d272a",
-    "url": "/Milos_Terzic_CV_Eng/static/css/main.c4d003a7.chunk.css"
+    "revision": "0b4603723712d389c8ad",
+    "url": "/Milos_Terzic_CV_Eng/static/css/main.3027b5e6.chunk.css"
   },
   {
-    "revision": "9799c36b87ec2440c323",
-    "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js"
+    "revision": "3983924c4c334d95c803",
+    "url": "/Milos_Terzic_CV_Eng/static/js/2.954b9b82.chunk.js"
   },
   {
     "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/Milos_Terzic_CV_Eng/static/js/2.c8f3a8d7.chunk.js.LICENSE.txt"
+    "url": "/Milos_Terzic_CV_Eng/static/js/2.954b9b82.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "07cc5cc35d7d043d272a",
-    "url": "/Milos_Terzic_CV_Eng/static/js/main.a7e4b436.chunk.js"
+    "revision": "0b4603723712d389c8ad",
+    "url": "/Milos_Terzic_CV_Eng/static/js/main.2e34a9b0.chunk.js"
   },
   {
     "revision": "d6917ec8106aafd4f676",
@@ -44,16 +44,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Milos_Terzic_CV_Eng/static/media/LinkedIn.f369c411.png"
   },
   {
-    "revision": "30e23ac45971c666ee026dca7ee7d32f",
-    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-1.30e23ac4.jpg"
+    "revision": "2136afa21f69dc61964627ec878fdda4",
+    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-1.2136afa2.jpg"
   },
   {
-    "revision": "73d7cff10ad28d9ac5e5009f80cada7f",
-    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-2.73d7cff1.jpg"
+    "revision": "a3986caa315f9d707e355fd223c01c31",
+    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-2.a3986caa.jpg"
   },
   {
-    "revision": "56af80ea6c1e6ae720b8724b0826f16c",
-    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-3.56af80ea.jpg"
+    "revision": "85096583c6014c26947b0656ca9ceb6b",
+    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-3.85096583.jpg"
+  },
+  {
+    "revision": "9bd2dbe2b1c5c30215919beabe1bfe7b",
+    "url": "/Milos_Terzic_CV_Eng/static/media/Milos_Terzic_CV_Eng-4.9bd2dbe2.jpg"
   },
   {
     "revision": "4976883ec74b034c534016a2c2c1f9bc",
