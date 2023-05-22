@@ -13,8 +13,6 @@ import projectsIcon from "./assets/projectsIcon.png";
 import arrowGif from "./assets/arrowGif.gif";
 import cvPage1 from "./assets/cvImages/Milos_Terzic_CV_Eng-1.jpg";
 import cvPage2 from "./assets/cvImages/Milos_Terzic_CV_Eng-2.jpg";
-import cvPage3 from "./assets/cvImages/Milos_Terzic_CV_Eng-3.jpg";
-import cvPage4 from "./assets/cvImages/Milos_Terzic_CV_Eng-4.jpg";
 import project1 from "./assets/projectsImages/Business Monitoring Reporter 0.png";
 import project2 from "./assets/projectsImages/Business Monitoring Reporter 1.png";
 import project3 from "./assets/projectsImages/Pixel.png";
@@ -29,7 +27,7 @@ import project11 from "./assets/projectsImages/Online School Portal 1.jpg";
 import bonsaiPlant from "./assets/bonsai plant.gif";
 
 import "./App.css";
-const cvArrays = [cvPage1, cvPage2, cvPage3, cvPage4];
+const cvArrays = [cvPage1, cvPage2];
 const listCvItems = cvArrays.map((cvArray) => (
   <div>
     <img src={cvArray} alt="CV" />
